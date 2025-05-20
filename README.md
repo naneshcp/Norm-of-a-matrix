@@ -36,28 +36,19 @@ mat=np.array(eval(input()))
 ans=np.linalg.norm(mat,np.inf)
 norm_of_matrix="{:.2f}".format(ans)
 print(norm_of_matrix)
-
-
-
-
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![Screenshot 2025-05-20 221345](https://github.com/user-attachments/assets/e9cda0af-4d4c-4f23-a226-3b51f7e0ba67)
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![Screenshot 2025-05-20 221354](https://github.com/user-attachments/assets/0e599dae-3d02-4a71-8476-926bfaa601fa)
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>![Screenshot 2025-05-20 221401](https://github.com/user-attachments/assets/dd0f7416-cd43-43ed-8042-ee60f8fa50a6)
+
+![Screenshot 2025-05-20 221401](https://github.com/user-attachments/assets/dd0f7416-cd43-43ed-8042-ee60f8fa50a6)
 
 
 ## Result
